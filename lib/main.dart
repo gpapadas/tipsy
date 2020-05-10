@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tipsy/home_screen.dart';
+
 void main() => runApp(TipsyApp());
 
 class TipsyApp extends StatelessWidget {
